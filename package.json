@@ -1,0 +1,35 @@
+{
+  "name": "bidder",
+  "version": "1.0.0",
+  "description": "A simple bidding app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8blake/Bidder.git"
+  },
+  "keywords": [
+    "bid",
+    "bidding",
+    "money",
+    "buy"
+  ],
+  "author": "n8blake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n8blake/Bidder/issues"
+  },
+  "homepage": "https://github.com/n8blake/Bidder#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-icons": "^1.4.1",
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
